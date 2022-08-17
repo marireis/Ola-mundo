@@ -1,4 +1,4 @@
 # Ola mundo
 Olá mundo!
- primieiro repositório versionado
+primieiro repositório versionado
 Essa linha inserir direto do site
